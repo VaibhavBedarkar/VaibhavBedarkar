@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bedarkar</h1>
-<p align="left">I am a Results-Oriented and passionate software developer. I started my journey from LOGO to being a top performer at National Cyber Olympiad. My passion for computers inspired me to pursue Computer Engineering. I graduated with a 7.94 CGPA. Apart from a keen interest in computers. I have proficiency in Java and JavaScript and working knowledge in Android and Web Development. I have a keen interest in Metaverse which inspired me to work on an Augmented Reality enabled Learning application as a part of my engineering project. Apart from that, I was a GDSC Lead and organized technical sessions during my Engineering with the help of my team. Which helped me in improving my soft skills and being a team player.</p>
+<p align="left">A Results-Oriented and passionate Software Developer. Skilled in Java Backend and Android Development. Love to change the world with few-lines of code. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavbedarkar&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavbedarkar" /> </p>
 
