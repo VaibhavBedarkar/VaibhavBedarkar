@@ -26,7 +26,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40" height="40"/>
 <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="Spring" width="140" height="40"/> 
 <img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="140" height="40"/> 
-<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB" width="140" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/3291/3291695.png" alt="GitHub" width="40" height="40"/>
 
 
