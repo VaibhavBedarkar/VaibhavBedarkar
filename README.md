@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavbedarkar" alt="vaibhavbedarkar" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavbedarkar.github.io/](https://vaibhavbedarkar.github.io/)
+- 👨‍💻 Projects available at [https://vaibhavbedarkar.github.io/](https://vaibhavbedarkar.github.io/)
 
-- 📫 How to reach me **vaibhav.bedarkar98@gmail.com**
+- 📫 Reach me **vaibhav.bedarkar98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
